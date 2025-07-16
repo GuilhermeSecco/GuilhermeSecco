@@ -1,7 +1,7 @@
 ## Sobre Mim
 
 - 👔 Procurando estágio em ciência de dados
-- 📖 Atualmente estou estudando SQL
+- 📖 Atualmente estou estudando SQL e Computer Vision
 - 🎓 Estou fortificando a minha base matemática para aplicar em machine learning
 
 ## Projetos
