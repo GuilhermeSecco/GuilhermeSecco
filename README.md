@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-- 👔 Procurando estágio em ciência de dados ou analise de dados
+- 👔 Procurando trabalho em ciência ou analise de dados
 - 📖 [Meus Estudos](https://github.com/GuilhermeSecco/Estudos): NoSQL e Computer Vision
 - 🎓 Também Estou fortificando a minha base matemática para aplicar em machine learning
 
