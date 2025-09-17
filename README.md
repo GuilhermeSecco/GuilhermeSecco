@@ -1,8 +1,7 @@
 ## Sobre Mim
 
 - 👔 Procurando estágio em Ciência de Dados ou vaga júnior em Análise de Dados.  
-- 🎓 Atualmente estudando: SQL, NoSQL e Estatística.  
-- 📖 [Meus Estudos](https://github.com/GuilhermeSecco/Estudos)  
+- 🎓 Atualmente estudando: SQL e Estatística.  
 
 ---
 
