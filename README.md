@@ -1,7 +1,7 @@
 ## Sobre Mim
 
 - 👔 Procurando estágio em Ciência de Dados ou vaga júnior em Análise de Dados.  
-- 🎓 Atualmente estudando: SQL e Estatística.  
+- 🎓 Atualmente estudando: Projeto, Implementação e Testes de Software.  
 
 ---
 
