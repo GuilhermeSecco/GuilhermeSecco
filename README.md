@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-- 👔 Procurando estágio em Ciência de Dados ou vaga júnior em Análise de Dados.  
+- 👔 Procurando estágio em Ciência de Dados ou vaga em Desenvolvimento Python e Análise de Dados.  
 - 🎓 Atualmente estudando: Projeto, Implementação e Testes de Software.  
 
 ---
