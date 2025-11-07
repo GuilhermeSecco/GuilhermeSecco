@@ -1,7 +1,8 @@
 ## Sobre Mim
 
 - 👔 Procurando estágio em Ciência de Dados ou vaga em Desenvolvimento Python e Análise de Dados.  
-- 🎓 Atualmente estudando: Flask com Bootstrap.  
+- 🎓 Atualmente estudando: Flask com Bootstrap.
+- 🌐 Site Portifólio: [Clique para acessar](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
 
