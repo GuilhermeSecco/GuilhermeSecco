@@ -1,15 +1,14 @@
 ## Sobre Mim
 
-- 👔 Procurando estágio em Ciência de Dados ou vaga em Desenvolvimento Python e Análise de Dados.  
-- 🎓 Atualmente estudando: Flask com Bootstrap.
+- 👔 Procurando estágio em Ciência de Dados. 
+- 🎓 Atualmente estudando: Natural Language Processing e BeautifulSoup.
 - 🌐 Site Portifólio: [Clique para acessar](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
 
-## Projetos
+| 📋 Projeto | 📃 Resumo | 📊 Visualização | ⚡ Tecnologias |
+|:----------:|:----------:|:------------:|:-----------:|
+| [**Simulador de Crédito**](https://github.com/GuilhermeSecco/Simulador-Credito)| Simulador interativo de aprovação de crédito baseado em Machine Learning — desenvolvido com Flask e XGBoost para prever risco de inadimplência e definir taxas personalizadas. | <img width="1248" height="681" alt="Simulação Feita" src="https://github.com/user-attachments/assets/f7f00948-1507-46f7-99c6-0e6baff12cde" /> | **Python** (Numpy, Pandas, Scikit-Learn, XGBoost, Flask)<br><br>[Acessar Demonstração](https://portifolio-guilhermesecco.onrender.com/projetos/simulador-credito)|
+| [**JobScraper**](https://github.com/GuilhermeSecco/JobScraper-BI-Dashboard) | Automação com Selenium para coleta de vagas no LinkedIn com criação de dashboard no Power BI. | <img width="1580" height="888" alt="JobScraper BI Dashboard" src="https://github.com/user-attachments/assets/959bd889-2e46-4308-b88c-0fcecdf26893" /> | **Python** (Selenium, Pandas)<br>**Excel**<br>**Power BI** |
+| [**Portfólio Interativo**](https://github.com/GuilhermeSecco/Site-Portifolio) | Portfólio interativo com projetos de Data Science, Machine Learning e Análise de Dados — desenvolvido em Flask e integrado à API do GitHub. | <img width="1846" height="1005" alt="Captura de tela 2025-11-11 012634" src="https://github.com/user-attachments/assets/6c70da68-1e99-45b2-a2cb-109ed0924b65"/> | **Python** (Flask)<br>**Bootstrap**<br>**Html**, **Css**, **Javascript**<br>**GitHub API**<br><br>[Acessar Portfólio](https://portifolio-guilhermesecco.onrender.com)
 
-| 📋 Projeto | 📃 Resumo | 📊 Gráficos | 💡 Insight | 📐 Métricas | ⚡ Tecnologias |
-|:----------:|:----------:|:------------:|:-----------:|:------------:|:--------------:|
-| [**Risco de Crédito e Fraude em Empréstimos**](https://github.com/GuilhermeSecco/Risco-de-Credito) | Modelo que extrai dados de um banco MySQL para avaliar risco de crédito e prever a probabilidade de fraude em empréstimos usando Machine Learning. | <img width="100%" alt="image" src="https://github.com/user-attachments/assets/44dfaa94-6cc2-463a-bf3d-a811450cf10f" /> | A probabilidade de **fraude aumenta** conforme o **saldo devedor cresce** e o **total pago diminui**. |F1-Score durante treinamento: **97.84%**<br>F1-Score quando exposto a novos dados: **95.29%**<br>Isso demonstra que o modelo **não sofre de Overfitting**. | Excel<br>MySQL<br>Power BI<br>Pandas<br>NumPy<br>Scikit-Learn|
-| [**Previsão de Finalização de Compras Online**](https://github.com/GuilhermeSecco/Previsao-de-vendas) | Treinamento de modelos SVM com diferentes kernels para prever se uma compra online será concluída, aplicando pré-processamento, balanceamento (SMOTE) e ajuste de hiperparâmetros. | <img width="100%" alt="comparacao_modelos_svm" src="https://github.com/user-attachments/assets/c41de12f-2fde-44bd-8f4d-c92ef6b1d4f1" /> | O kernel Polinomioal apresentou o melhor desempenho, porém é possível notar que ele tem uma tendência a dizer que a compra será efetuada.|Melhor modelo (Polinomial): <br>**F1-Score: 90.4%**<br>**Precision: 92.5%**<br>**Recall: 88.4%**| Pandas<br>NumPy<br>Matplotlib<br>Seaborn<br>Scikit-Learn<br>Imbalanced-Learn|
-|[**Análise de Corridas da Uber**](https://github.com/GuilhermeSecco/Analise-Dados-Uber/tree/main)|O objetivo é analisar dados de corridas da Uber utilizando **consultas SQL** para responder perguntas de negócio com ajuda do **Power BI**| <img width="100%" src="https://github.com/GuilhermeSecco/Analise-Dados-Uber/blob/main/Dashboard.gif?raw=true" />|Dia com mais corridas: **Segunda-Feira**<br>Horário de pico: **Entre 17 e 19h**<br>Veículo com mais corridas: **Automático**|As perguntas foram respondidas com **SQL** em:<br>➡️[`Sql_Query.ipynb`](Sql_Query.ipynb)|Excel<br>MySQL<br>PowerBI<br>Python|
