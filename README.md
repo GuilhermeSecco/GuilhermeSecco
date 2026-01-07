@@ -1,7 +1,7 @@
 ## Sobre Mim
 
 - 🎯 Buscando estágio em Ciência de Dados e Machine Learning. 
-- 🎓 Atualmente estudando: Natural Language Processing.
+- 🎓 Atualmente estudando: Curso de Soluções Preditivas Baseadas em Dados com R e Python pela Escola Virtual Gov.
 - 🌐 Site Portifólio: [Clique para acessar](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
