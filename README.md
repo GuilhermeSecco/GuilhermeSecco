@@ -2,7 +2,7 @@
 
 - 🎯 Looking for Internship in Data Science and Machine Learning / IA. 
 - 🎓 Currently studying: Data-Driven Predictive Solutions with R and Python – Escola Virtual Gov
-- 🌐 Portfolio Website: [Clique para acessar](https://portifolio-guilhermesecco.onrender.com/)
+- 🌐 Portfolio Website: [Acess Website](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
 
