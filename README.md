@@ -1,7 +1,7 @@
 ## About Me
 
-- 🎯 Looking for Internship in Data Science and Machine Learning / IA. 
-- 🎓 Currently studying: Relational Database Management and Data Cleaning with Python
+- 🎯 Looking for Internship in Data Science and Machine Learning / IA.
+- 🎓 What I'm Doing right Now: Participating in Kaggle's Competitions.
 - 🌐 Portfolio Website: [Acess Website](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
