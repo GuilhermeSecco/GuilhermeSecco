@@ -1,7 +1,7 @@
 ## About Me
 
 - 🎯 Looking for Internship in Data Science and Machine Learning / IA.
-- 🎓 What I'm Doing right Now: Participating in Kaggle's Competitions.
+- 🎓 What I'm Doing Right Now: Participating in Kaggle's Competitions.
 - 🌐 Portfolio Website: [Acess Website](https://portifolio-guilhermesecco.onrender.com/)
 
 ---
